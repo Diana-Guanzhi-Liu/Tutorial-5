@@ -1,9 +1,8 @@
 ---
-title: "Statistics"
+title: "The Decline of Survey Response Rates"
 author: Diana Liu
 date: February 2 2024
 email: guanzhi.liu@mail.utoronto.ca
-abstract: "dfdsd"
 thanks: "Code and data are available at: https://github.com/Diana-Guanzhi-Liu/Tutorial-5"
 format: pdf
 bibliography: /cloud/project/Ref.bib
@@ -20,4 +19,10 @@ library(tinytex)
 ```
 
 # Introduction
-in (@CiteJSSM)
+One aspect of the editorial Special Virtual Issue on Nonresponse Rates and Nonresponse Adjustments in the Journal of Survey Statistics and Methodology focuses on the rise of nonresponse rates across 3 different methods of surveys (@CiteJSSM). These three papers each examine the response rate over time of a different survey method: telephone, online, and face-to-face. All three conclude that the response rates for their perspective survey methods have been declining. Understanding the trend of response rates can help statisticians be aware of nonresponse bias in their data and devise ways of increasing their response rates for future surveys. 
+
+# Discussion
+Nonresponse rates in most face-to-face household surveys have been increasing in the US since 2000 (@CiteFace-to-face). Data collected from eight long-term studies conducted by a variety of surveying organizations show that from 2000 to 2014, response rates have been declining at around 1% per year. 
+
+\newpage
+#References
